@@ -21,3 +21,11 @@ Interactive IPL Performance Analysis Dashboard analyzing IPL seasons from **2007
 - Top 10 Batters by Sixes
 - Top 10 Bowlers by Wickets
 - Top 10 Bowlers by Economy Rate
+
+## Dataset
+
+This project uses the IPL Complete Dataset available on Kaggle.
+
+**Source:** https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+
+**Note:** This dashboard analyzes IPL seasons from **2007–2014** using data extracted from the original Kaggle dataset.
